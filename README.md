@@ -1,3 +1,3 @@
-# flutter_animations
+# animations
 
-a repository of animations in flutter from basic to complex using custom painter
+A new Flutter project.
